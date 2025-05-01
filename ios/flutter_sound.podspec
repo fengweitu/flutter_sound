@@ -19,5 +19,5 @@ Flutter plugin that relates to sound like audio and recorder.
 
   s.ios.deployment_target = '12.0'
   s.static_framework = true
-  s.dependency 'flutter_sound_core', :git => 'https://github.com/fengweitu/flutter_sound_core.git', :branch => 'add_import_9.28.0'
+  s.dependency 'flutter_sound_core'
 end
